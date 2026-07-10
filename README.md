@@ -1,16 +1,19 @@
-## Hi there 👋
+# About
 
-<!--
-**Fontailll/Fontailll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm **Fontail** 👋
 
-Here are some ideas to get you started:
+I'm an active Linux user who enjoys building open-source tools and experimenting with Linux, AI, and system internals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my projects are things I build to learn, solve problems, or simply because I think they're interesting.
+
+⭐ If you find any of my projects useful, consider leaving a star!
+
+# Projects
+
+* 🧬 **SystemDNA** — Linux system analysis, snapshots, diagnostics, and recovery toolkit.
+* 🌐 **NetSentinel** — Network monitoring and analysis toolkit.
+* 🛡️ **PortShield** — Port security and management utility.
+* 🤖 **LLM Experiments** — Exploring local AI models, fine-tuning, and inference.
+* ⚙️ **Various CLI Tools** — Small utilities built for Linux and developers.
+
+> 🐧 Active Linux user • Building, breaking, and learning.
