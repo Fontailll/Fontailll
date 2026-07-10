@@ -1,7 +1,5 @@
 # About
 
-Hey, I'm **Fontail** 👋
-
 I'm an active Linux user who enjoys building open-source tools and experimenting with Linux, AI, and system internals.
 
 Most of my projects are things I build to learn, solve problems, or simply because I think they're interesting.
