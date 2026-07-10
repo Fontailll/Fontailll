@@ -2,6 +2,8 @@
 
 I'm an active Linux user who enjoys building open-source tools and experimenting with Linux, AI, and system internals.
 
+My previous GitHub account is no longer available, so I'm rebuilding everything here.
+
 Most of my projects are things I build to learn, solve problems, or simply because I think they're interesting.
 
 ⭐ If you find any of my projects useful, consider leaving a star!
